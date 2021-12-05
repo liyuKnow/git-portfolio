@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/git-portfolio/static/css/main.de8b0f0e.chunk.css",
+    "main.js": "/git-portfolio/static/js/main.ccf4c8f8.chunk.js",
+    "main.js.map": "/git-portfolio/static/js/main.ccf4c8f8.chunk.js.map",
+    "runtime-main.js": "/git-portfolio/static/js/runtime-main.a18f47e1.js",
+    "runtime-main.js.map": "/git-portfolio/static/js/runtime-main.a18f47e1.js.map",
+    "static/js/2.216455a2.chunk.js": "/git-portfolio/static/js/2.216455a2.chunk.js",
+    "static/js/2.216455a2.chunk.js.map": "/git-portfolio/static/js/2.216455a2.chunk.js.map",
+    "index.html": "/git-portfolio/index.html",
+    "static/css/main.de8b0f0e.chunk.css.map": "/git-portfolio/static/css/main.de8b0f0e.chunk.css.map",
+    "static/js/2.216455a2.chunk.js.LICENSE.txt": "/git-portfolio/static/js/2.216455a2.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "/git-portfolio/static/media/address.a01cb8cc.png",
+    "static/media/award.a796a64f.png": "/git-portfolio/static/media/award.a796a64f.png",
+    "static/media/beth.1c1ec672.jpg": "/git-portfolio/static/media/beth.1c1ec672.jpg",
+    "static/media/email.a49e0158.png": "/git-portfolio/static/media/email.a49e0158.png",
+    "static/media/me.eb40f241.png": "/git-portfolio/static/media/me.eb40f241.png",
+    "static/media/moon.3bea3d39.png": "/git-portfolio/static/media/moon.3bea3d39.png",
+    "static/media/phone.d90a6d23.png": "/git-portfolio/static/media/phone.d90a6d23.png",
+    "static/media/sun.f794832a.png": "/git-portfolio/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18f47e1.js",
+    "static/js/2.216455a2.chunk.js",
+    "static/css/main.de8b0f0e.chunk.css",
+    "static/js/main.ccf4c8f8.chunk.js"
+  ]
+}
